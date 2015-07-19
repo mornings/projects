@@ -1,0 +1,2 @@
+# projects
+:ledger: Projects Manual
