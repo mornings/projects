@@ -8,10 +8,14 @@ I've been getting caught up in my own projects spiderweb, this is a manual to he
 
 Table of Contents
 
-1. Intro
-2. Something
-3. Something else
-4. 
+1. [Quotes](#Quotes)
+2. [Projects](#Projects)
+3. [Portfolio Items](#Items) 
+4. [Home Goods](#Home_Goods)
+5. [Textbooking](#Textbooking)
+6. [Interventions](#Interventions)
+7. [Website](#Website)
+8. [Concepts](#Concepts)
 
 —
 
@@ -30,7 +34,7 @@ Text Dump
 
 —
 
-##### Project/Theses Names/Concepts
+##### Projects
 
 “In the making”
 "A Dissertation on ___________"
@@ -56,7 +60,7 @@ Text Dump
 
 —
 
-##### New Misc. Portfolio Items
+##### Portfolio Items
 
 Misc — Arduino Crafting
 Misc — archive.org redesign
@@ -99,7 +103,7 @@ Public Services — Event Planning
 
 —
 
-##### Mornings Home Goods — Product List
+##### Home Goods
 *"Simple Home Goods"*
 
 *Clothes Rail*
@@ -119,7 +123,7 @@ drawing roll, mountable
 
 —
 
-##### Mornings Textbooking — Project List
+##### Textbooking
 *“Design Studies via Low-Print-Literature”*
 
 *Affordances + Offerings*
@@ -136,7 +140,7 @@ Record on video the numerous tics associated with digital technology. Preferably
 
 —
 
-##### Mornings Interventions — Project List
+##### Interventions
 *“Designing Interventions, make U think”*
 
 *Affordances*
@@ -153,7 +157,7 @@ teaching designing 1 gif at a time
 
 —
 
-##### Online Portfolio Todo
+##### Website
 
 [ ]- Write Stories about Actual Work Experience ( Smart Design, IBM ) detailing what I’ve learned, failed at, etc.
 [ ]- For the above, take lots of video and/or imagery for use in storytelling.
@@ -165,7 +169,7 @@ teaching designing 1 gif at a time
 
 —
 
-##### Concept-Projects
+##### Concepts
 
 *Waterfall Wi-Fi*
 A small fountain/waterfall which pours forth water as long as there is a wifi connection.
