@@ -14,7 +14,6 @@ Table of Contents
 4. [Home Goods](#home-goods)
 5. [Textbooking](#textbooking)
 7. [Website](#website)
-8. [Concepts](#concepts)
 
 —
 
