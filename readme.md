@@ -110,6 +110,22 @@ Table of Contents
 *Paper Prototyping Library*
 > teaching designing 1 gif at a time
 
+*osx icon redesign*
+> fontforge
+> quartz composer
+
+*Sheets — Player Piano*
+> a beautiful music sheet application which allows the user to download sheets (or tabs, or anything else) and automate the page navigation process with voice/piano playing.
+> Imagine opening up to a song, beginning to play along, and experience the app following your progress in a visual manner.
+> If you stop playing, screw up, or deviate from playing in some manner, the app can stop tracking progress.
+> If you continue playing, it will pick right up and track you again.
+> If you say, 'start from bar 5 measure 3’, or ‘start over’, the app will do just that.
+
+*sand mandala information architecture*
+> a designer can build their IA in sand.
+> over time, wind and natural elements erode the structure of the mandala/IA which forces the designer to keep in mind the temporal nature of their IA, which pushes them towards continually improving and updating and reconsidering their IA
+> a digital tool which erodes your designs over time or a physical sand drawing that’s livestreamed over the internet
+
 —
 
 ##### Home Goods
@@ -129,6 +145,11 @@ Table of Contents
 
 *Måla Mount*
 > Drawing roll, mountable
+
+*Waterfall Wi-Fi*
+> A small fountain/waterfall which pours forth water as long as there is a wifi connection.
+> "As the wi-fi gets weaker, the strong flow of water decreases…”
+> [Data Fountain](http://www.koert.com/work/datafountain/)
 
 —
 
@@ -155,33 +176,3 @@ Table of Contents
 - [ ] For the above, take lots of video and/or imagery for use in storytelling
 - [ ] Other Work / Archive / Failure Portfolio
 - [ ] Twine Résumé - An interactive CYOA game-cv-thing
-
-—
-
-##### Concepts
-
-*Waterfall Wi-Fi*
-A small fountain/waterfall which pours forth water as long as there is a wifi connection.
-
-> "As the wi-fi gets weaker, the strong flow of water decreases…”
-
-[Data Fountain](http://www.koert.com/work/datafountain/)
-
-*Sheets — Player Piano*
-a beautiful music sheet application which allows the user to download sheets (or tabs, or anything else) and automate the page navigation process with voice/piano playing.
-Imagine opening up to a song, beginning to play along, and experience the app following your progress in a visual manner.
-If you stop playing, screw up, or deviate from playing in some manner, the app can stop tracking progress.
-if you continue playing, it will pick right up and track you again.
-if you say, 'start from bar 5 measure 3’, or ‘start over’, the app will do just that.
-
-*sand mandala information architecture*
-a designer can build their IA in sand.
-over time, wind and natural elements erode the structure of the mandala/IA
-which forces the designer to keep in mind the temporal nature of their IA
-which pushes them towards continually improving and updating and reconsidering their IA
-a digital tool which erodes your designs over time or
-a physical sand drawing that’s livestreamed over the internet
-
-*osx icon redesign*
-fontforge
-quartz composer
