@@ -9,10 +9,10 @@ I've been getting caught up in my own projects spiderweb, this is a manual to he
 Table of Contents
 
 1. [Quotes](#quotes)
-2. [Projects](#projects)
+2. [Index](#index)
+3. [Interventions](#interventions)
 4. [Home Goods](#home-goods)
 5. [Textbooking](#textbooking)
-6. [Interventions](#interventions)
 7. [Website](#website)
 8. [Concepts](#concepts)
 
@@ -28,13 +28,7 @@ Table of Contents
 
 —
 
-##### Projects
-
-- [ ] Misc — Arduino Crafting
-- [ ] Misc — archive.org redesign
-- [ ] Misc — gutenberg.org redesign
-
-—
+##### Index
 
 - [ ] IBM — MobileFirst Platform
 - [X] IBM — RapidApps
@@ -87,15 +81,34 @@ Table of Contents
 - [ ] Textbooking — In the making
 - [ ] Textbooking — A Dissertation on ___________
 
-
-—
-
-- [ ] Failure Portfolio / Archives — Old Projects Critically Re-approached
-
 —
 
 - [ ] Public Services — Branding / Themes
 - [ ] Public Services — Event Planning
+
+—
+
+- [ ] Misc — Arduino Crafting
+- [ ] Misc — archive.org redesign
+- [ ] Misc — gutenberg.org redesign
+- [ ] Misc — Failure Portfolio / Archives — Old Projects Critically Re-approached
+
+—
+
+##### Interventions
+*“Designing Interventions, make U think”*
+
+*Affordances*
+> awareness generation
+
+*Offerings*
+> objects bending for u
+
+*19.95 / Paid Programming*
+> rethinking low culture mass-projected media
+
+*Paper Prototyping Library*
+> teaching designing 1 gif at a time
 
 —
 
@@ -133,23 +146,6 @@ Table of Contents
 
 *Tic*
 > Record on video the numerous tics associated with digital technology. Preferably close in shot with minimal context. Press a book displaying clothing and accessories meant to alleviate and/or aggravate tics that have been mentioned.
-
-—
-
-##### Interventions
-*“Designing Interventions, make U think”*
-
-*Affordances*
-> awareness generation
-
-*Offerings*
-> objects bending for u
-
-*19.95 / Paid Programming*
-> rethinking low culture mass-projected media
-
-*Paper Prototyping Library*
-> teaching designing 1 gif at a time
 
 —
 
