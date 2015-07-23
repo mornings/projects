@@ -37,6 +37,8 @@ https://mornings.hostedwiki.co/
 
 "The studio works to create products that perform on multiple levels, with a focus on research and intent. The constant ambition is to develop useful, mass market objects that exhibit an innovative simplicity which challenges traditional societal notions of value. Visibility works in product, spatial, and service design.— visibility.co"
 
+—
+
 Project/Theses Names/Concepts
 
 “In the making”
@@ -60,6 +62,8 @@ Project/Theses Names/Concepts
 "Training UI"
 “Tic"
 “Event Spaces"
+
+—
 
 New Misc. Portfolio Items
 
@@ -102,6 +106,8 @@ Failure Portfolio / Archives — Old Projects Critically Re-approached
 Public Services — Branding / Themes
 Public Services — Event Planning
 
+—
+
 Mornings Home Goods — Product List
 "Simple Home Goods"
 
@@ -120,6 +126,8 @@ Cloth Clips
 Måla Mount
 drawing roll, mountable
 
+—
+
 Mornings Textbooking — Project List
 “Design Studies via Low-Print-Literature”
 
@@ -134,6 +142,8 @@ Basically a detailed portfolio replica that turns the traditional portfolio on i
 
 Alleviate/Aggravate 
 Record on video the numerous tics associated with digital technology. Preferably close in shot with minimal context. Press a book displaying clothing and accessories meant to alleviate and/or aggravate tics that have been mentioned.
+
+—
 
 Mornings Interventions — Project List
 “Designing Interventions, make U think”
@@ -150,18 +160,19 @@ rethinking low culture mass-projected media
 Paper Prototyping Library
 teaching designing 1 gif at a time
 
+—
+
 Online Portfolio Todo
 
-1. Write Stories about Actual Work Experience ( Smart Design, IBM ) detailing what I’ve learned, failed at, etc.
-
-2. For the above, take lots of video and/or imagery for use in storytelling.
-
-3. Work Hierarchy:
+[ ]- Write Stories about Actual Work Experience ( Smart Design, IBM ) detailing what I’ve learned, failed at, etc.
+[ ]- For the above, take lots of video and/or imagery for use in storytelling.
+[ ]- Work Hierarchy:
     Work Stories
     Important Work
     Other Work / Archive / Failure Portfolio
-    
-4. Twine Résumé - An interactive CYOA game-cv-thing
+[ ]- . Twine Résumé - An interactive CYOA game-cv-thing
+
+—
 
 Concept-Projects
 
@@ -170,7 +181,7 @@ Waterfall Wi-Fi
 
 "As the wi-fi gets weaker, the strong flow of water decreases…”
 
-http://www.koert.com/work/datafountain/
+[](http://www.koert.com/work/datafountain/)
 
 —
 
