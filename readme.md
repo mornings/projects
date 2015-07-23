@@ -10,7 +10,6 @@ Table of Contents
 
 1. [Quotes](#quotes)
 2. [Projects](#projects)
-3. [Portfolio Items](#portfolio-items) 
 4. [Home Goods](#home-goods)
 5. [Textbooking](#textbooking)
 6. [Interventions](#interventions)
@@ -23,42 +22,19 @@ Table of Contents
 
 > What makes this studio different is our direct manufacturing and distribution track record. We are at home in the complexity of international cultures and markets and offer product forecasting and proprietary design coaching. — shelter and roam
 
-
 > "The studio works to create products that perform on multiple levels, with a focus on research and intent. The constant ambition is to develop useful, mass market objects that exhibit an innovative simplicity which challenges traditional societal notions of value. Visibility works in product, spatial, and service design.— visibility.co"
+
+> "A machine desires instruction as a garden desires discipline”
 
 —
 
 ##### Projects
 
-- “In the making”
-- "A Dissertation on ___________"
-- "(A) Tendency towards complexity”
-- "A machine desires instruction as a garden desires discipline”
-- “Manufacturing Methodologies"
-- "Product Design, Possible Here?”
-- "$9.95, $9.95" / "Paid Programming"
-- "100%"
-- "Mornings 365 / 365 Mornings"
-- “Works In Progress”
-- “Sans Form”
-- “Mass Design"
-- "Means of manufacture"
-- "Failure Portfolio"
-- "Affordances + Offerings"
-- "Best Practices"
-- "White Aesthetics"
-- "Solid State Tomb"
-- "Training UI"
-- “Tic"
-- “Event Spaces"
-
-—
-
-##### Portfolio Items
-
 - [ ] Misc — Arduino Crafting
 - [ ] Misc — archive.org redesign
 - [ ] Misc — gutenberg.org redesign
+
+—
 
 - [ ] IBM — MobileFirst Platform
 - [X] IBM — RapidApps
@@ -67,14 +43,22 @@ Table of Contents
 - [ ] GIF Paper Prototyping Library
 - [X] IBM — Virtual Studio
 
+—
+
 - [X] Mornings — Branding
 - [X] Mornings — Website
 
-- [ ] Interventions — $9.95
+—
+
+- [ ] Interventions — $19.95 (Paid Programming)
 - [ ] Interventions — Affordances
 - [ ] Interventions — Offerings
 - [ ] Interventions — Sugru
 - [ ] Interventions — Solid State Tomb
+- [ ] Interventions — Tic
+- [ ] Interventions — Event Spaces
+
+—
 
 - [ ] Home Goods — Indexing
 - [ ] Home Goods — Cloth Clips 
@@ -82,15 +66,33 @@ Table of Contents
 - [ ] Home Goods — Watering Cactus
 - [ ] Home Goods — Måla Mount
 - [ ] Home Goods — Memory Card
-- [ ] Interventions — Solid State Tomb
+
+—
 
 - [ ] Textbooking — Bookmaking
-- [ ] Textbooking — "Means of Manufacture"
-- [ ] Textbooking — "Affordances / Offerings"
+- [ ] Textbooking — Methods of Manufacture
+- [ ] Textbooking — Affordances / Offerings
 - [ ] Textbooking — Failure Portfolio IRL
 - [ ] Textbooking — Designing Death / Internet of Things, Internet of Death
+- [ ] Textbooking — (A) Tendency towards complexity
+- [ ] Textbooking — Works In Progress
+- [ ] Textbooking — Sans Form
+- [ ] Textbooking — Mass Design
+- [ ] Textbooking — Best Practices
+- [ ] Textbooking — White Aesthetics
+- [ ] Textbooking — Training UI
+- [ ] Textbooking — Product Design, Possible Here?
+- [ ] Textbooking — 100%
+- [ ] Textbooking — Mornings 365 / 365 Mornings
+- [ ] Textbooking — In the making
+- [ ] Textbooking — A Dissertation on ___________
+
+
+—
 
 - [ ] Failure Portfolio / Archives — Old Projects Critically Re-approached
+
+—
 
 - [ ] Public Services — Branding / Themes
 - [ ] Public Services — Event Planning
@@ -129,7 +131,7 @@ Table of Contents
 *Failure Portfolio / Failure Résumé*
 > Basically a detailed portfolio replica that turns the traditional portfolio on its head, details  failures, mishaps, and bungles in full and gory and candid detail. Perhaps consolidate multiple designers' work. Critically revisit old projects and point out how i fucked up.
 
-*Alleviate/Aggravate *
+*Tic*
 > Record on video the numerous tics associated with digital technology. Preferably close in shot with minimal context. Press a book displaying clothing and accessories meant to alleviate and/or aggravate tics that have been mentioned.
 
 —
