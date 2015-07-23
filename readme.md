@@ -8,20 +8,14 @@ I've been getting caught up in my own projects spiderweb, this is a manual to he
 
 Table of Contents
 
-1. [Quotes](#Quotes)
-2. [Projects](#Projects)
-3. [Portfolio Items](#Items) 
-4. [Home Goods](#Home_Goods)
-5. [Textbooking](#Textbooking)
-6. [Interventions](#Interventions)
-7. [Website](#Website)
-8. [Concepts](#Concepts)
-
-—
-
-Text Dump
-
-🌅 mornings
+1. [Quotes](#quotes)
+2. [Projects](#projects)
+3. [Portfolio Items](#items) 
+4. [Home Goods](#home-goods)
+5. [Textbooking](#textbooking)
+6. [Interventions](#interventions)
+7. [Website](#website)
+8. [Concepts](#concepts)
 
 —
 
