@@ -21,25 +21,16 @@ Text Dump
 
 —
 
-Mornings Meta, other studio stories
+##### Quotes
 
-Mornings Creative Studios
+> What makes this studio different is our direct manufacturing and distribution track record. We are at home in the complexity of international cultures and markets and offer product forecasting and proprietary design coaching. — shelter and roam
 
-M1
 
-M001
-
-Mornings Arts and Sciences
-
-https://mornings.hostedwiki.co/
-
-"What makes this studio different is our direct manufacturing and distribution track record. We are at home in the complexity of international cultures and markets and offer product forecasting and proprietary design coaching. — shelter and roam"
-
-"The studio works to create products that perform on multiple levels, with a focus on research and intent. The constant ambition is to develop useful, mass market objects that exhibit an innovative simplicity which challenges traditional societal notions of value. Visibility works in product, spatial, and service design.— visibility.co"
+> "The studio works to create products that perform on multiple levels, with a focus on research and intent. The constant ambition is to develop useful, mass market objects that exhibit an innovative simplicity which challenges traditional societal notions of value. Visibility works in product, spatial, and service design.— visibility.co"
 
 —
 
-Project/Theses Names/Concepts
+##### Project/Theses Names/Concepts
 
 “In the making”
 "A Dissertation on ___________"
@@ -65,7 +56,7 @@ Project/Theses Names/Concepts
 
 —
 
-New Misc. Portfolio Items
+##### New Misc. Portfolio Items
 
 Misc — Arduino Crafting
 Misc — archive.org redesign
@@ -108,61 +99,61 @@ Public Services — Event Planning
 
 —
 
-Mornings Home Goods — Product List
-"Simple Home Goods"
+##### Mornings Home Goods — Product List
+*"Simple Home Goods"*
 
-Clothes Rail
+*Clothes Rail*
 i was on a packed subway train observing people hold on to the bars above the seats and imagined that the people disappeared, leaving their clothing. A clothes rack came to mind, and that's where the idea for this clothing rack came from.
 
-Indexing
+*Indexing*
 inside of my nyc apartment there was a newspaper or book cut into very thin strips and arranged tightly inside a wooden frame. I imagined the strips to be arranged into further smaller squares that could be removed.
 
-Watering Cactus
+*Watering Cactus*
 When I was living in my parent's house, there would be certain days where we'd realize that there were a lot of cups lying about half-filled with water ( usually generated from myself ). When this happened, I'd be told to round up all of the cups and pour them into the cacti we had around the house, and that way the plants would be watered intermittently, which is perfectly fine for such hardy plants.
 
-Cloth Clips
+*Cloth Clips*
 3D Printed Uniform clips that could be used to clamp pieces of cloth together, forming clothing. A means with which to open-source clothing design.
 
-Måla Mount
+*Måla Mount*
 drawing roll, mountable
 
 —
 
-Mornings Textbooking — Project List
-“Design Studies via Low-Print-Literature”
+##### Mornings Textbooking — Project List
+*“Design Studies via Low-Print-Literature”*
 
-Affordances + Offerings
+*Affordances + Offerings*
 Bundle-up monograph/zine of the first two "Interventions" projects. Sets the pace + ideals for what Mornings Interventions projects are all about.
 
-Means of Manufacture / Methods of Manufacture
+*Means of Manufacture / Methods of Manufacture*
 A simple and very visual teaching aid to democratize the knowledge of how many things are mass-produced.
    
-Failure Portfolio / Failure Résumé
+*Failure Portfolio / Failure Résumé*
 Basically a detailed portfolio replica that turns the traditional portfolio on its head, details  failures, mishaps, and bungles in full and gory and candid detail. Perhaps consolidate multiple designers' work. Critically revisit old projects and point out how i fucked up.
 
-Alleviate/Aggravate 
+*Alleviate/Aggravate *
 Record on video the numerous tics associated with digital technology. Preferably close in shot with minimal context. Press a book displaying clothing and accessories meant to alleviate and/or aggravate tics that have been mentioned.
 
 —
 
-Mornings Interventions — Project List
-“Designing Interventions, make U think”
+##### Mornings Interventions — Project List
+*“Designing Interventions, make U think”*
 
-Affordances
+*Affordances*
 awareness generation
 
-Offerings
+*Offerings*
 objects bending for u
 
-19.95 / Paid Programming
+*19.95 / Paid Programming*
 rethinking low culture mass-projected media
 
-Paper Prototyping Library
+*Paper Prototyping Library*
 teaching designing 1 gif at a time
 
 —
 
-Online Portfolio Todo
+##### Online Portfolio Todo
 
 [ ]- Write Stories about Actual Work Experience ( Smart Design, IBM ) detailing what I’ve learned, failed at, etc.
 [ ]- For the above, take lots of video and/or imagery for use in storytelling.
@@ -174,27 +165,23 @@ Online Portfolio Todo
 
 —
 
-Concept-Projects
+##### Concept-Projects
 
-Waterfall Wi-Fi
-“A small fountain/waterfall which pours forth water as long as there is a wifi connection.”
+*Waterfall Wi-Fi*
+A small fountain/waterfall which pours forth water as long as there is a wifi connection.
 
-"As the wi-fi gets weaker, the strong flow of water decreases…”
+> "As the wi-fi gets weaker, the strong flow of water decreases…”
 
-[](http://www.koert.com/work/datafountain/)
+[Data Fountain](http://www.koert.com/work/datafountain/)
 
-—
-
-Sheets — Player Piano
+*Sheets — Player Piano*
 a beautiful music sheet application which allows the user to download sheets (or tabs, or anything else) and automate the page navigation process with voice/piano playing.
 Imagine opening up to a song, beginning to play along, and experience the app following your progress in a visual manner.
 If you stop playing, screw up, or deviate from playing in some manner, the app can stop tracking progress.
 if you continue playing, it will pick right up and track you again.
 if you say, 'start from bar 5 measure 3’, or ‘start over’, the app will do just that.
 
-—
-
-sand mandala information architecture
+*sand mandala information architecture*
 a designer can build their IA in sand.
 over time, wind and natural elements erode the structure of the mandala/IA
 which forces the designer to keep in mind the temporal nature of their IA
@@ -202,8 +189,6 @@ which pushes them towards continually improving and updating and reconsidering t
 a digital tool which erodes your designs over time or
 a physical sand drawing that’s livestreamed over the internet
 
-—
-
-osx icon redesign
+*osx icon redesign*
 fontforge
 quartz composer
