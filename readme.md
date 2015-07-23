@@ -30,70 +30,70 @@ Table of Contents
 
 ##### Projects
 
-“In the making”
-"A Dissertation on ___________"
-"(A) Tendency towards complexity”
-"A machine desires instruction as a garden desires discipline”
-“Manufacturing Methodologies"
-"Product Design, Possible Here?”
-"$9.95, $9.95" / "Paid Programming"
-"100%"
-"Mornings 365 / 365 Mornings"
-“Works In Progress”
-“Sans Form”
-“Mass Design"
-"Means of manufacture"
-"Failure Portfolio"
-"Affordances + Offerings"
-"Best Practices"
-"White Aesthetics"
-"Solid State Tomb"
-"Training UI"
-“Tic"
-“Event Spaces"
+- “In the making”
+- "A Dissertation on ___________"
+- "(A) Tendency towards complexity”
+- "A machine desires instruction as a garden desires discipline”
+- “Manufacturing Methodologies"
+- "Product Design, Possible Here?”
+- "$9.95, $9.95" / "Paid Programming"
+- "100%"
+- "Mornings 365 / 365 Mornings"
+- “Works In Progress”
+- “Sans Form”
+- “Mass Design"
+- "Means of manufacture"
+- "Failure Portfolio"
+- "Affordances + Offerings"
+- "Best Practices"
+- "White Aesthetics"
+- "Solid State Tomb"
+- "Training UI"
+- “Tic"
+- “Event Spaces"
 
 —
 
 ##### Portfolio Items
 
-Misc — Arduino Crafting
-Misc — archive.org redesign
-Misc — gutenberg.org redesign
+- [ ] Misc — Arduino Crafting
+- [ ] Misc — archive.org redesign
+- [ ] Misc — gutenberg.org redesign
 
-IBM — MobileFirst Platform
-IBM — RapidApps
-IBM — Design Education
-Paper Prototyping Workshops
-GIF Paper Prototyping Library
-IBM — Virtual Studio
+- [ ] IBM — MobileFirst Platform
+- [X] IBM — RapidApps
+- [X] IBM — Design Education
+- [ ] Paper Prototyping Workshops
+- [ ] GIF Paper Prototyping Library
+- [X] IBM — Virtual Studio
 
-Mornings — Branding
-Mornings — Website
+- [X] Mornings — Branding
+- [X] Mornings — Website
 
-Interventions — $9.95
-Interventions — Affordances
-Interventions — Offerings
-Interventions — Sugru
-Interventions — Solid State Tomb
+- [ ] Interventions — $9.95
+- [ ] Interventions — Affordances
+- [ ] Interventions — Offerings
+- [ ] Interventions — Sugru
+- [ ] Interventions — Solid State Tomb
 
-Home Goods — Indexing
-Home Goods — Cloth Clips 
-Home Goods — Clothes Rail
-Home Goods — Watering Cactus
-Home Goods — Måla Mount
-Home Goods — Memory Card
-Interventions — Solid State Tomb
+- [ ] Home Goods — Indexing
+- [ ] Home Goods — Cloth Clips 
+- [ ] Home Goods — Clothes Rail
+- [ ] Home Goods — Watering Cactus
+- [ ] Home Goods — Måla Mount
+- [ ] Home Goods — Memory Card
+- [ ] Interventions — Solid State Tomb
 
-Textbooking — Bookmaking
-Textbooking — "Means of Manufacture"
-Textbooking — "Affordances / Offerings"
-Textbooking — Failure Portfolio IRL
-Textbooking — Designing Death / Internet of Things, Internet of Death
+- [ ] Textbooking — Bookmaking
+- [ ] Textbooking — "Means of Manufacture"
+- [ ] Textbooking — "Affordances / Offerings"
+- [ ] Textbooking — Failure Portfolio IRL
+- [ ] Textbooking — Designing Death / Internet of Things, Internet of Death
 
-Failure Portfolio / Archives — Old Projects Critically Re-approached
+- [ ] Failure Portfolio / Archives — Old Projects Critically Re-approached
 
-Public Services — Branding / Themes
-Public Services — Event Planning
+- [ ] Public Services — Branding / Themes
+- [ ] Public Services — Event Planning
 
 —
 
