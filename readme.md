@@ -19,8 +19,10 @@ Table of Contents
 ##### Index
 
 - [ ] IBM — MobileFirst Platform
+- [ ] IBM — Presence Insights
+- [ ] IBM — Community Radio Exchange
 - [X] IBM — RapidApps
-- [X] IBM — Design Education
+- [X] IBM — Design Education, Prototyping
 - [ ] Paper Prototyping Workshops
 - [ ] GIF Paper Prototyping Library
 - [X] IBM — Virtual Studio
@@ -39,6 +41,7 @@ Table of Contents
 - [ ] Interventions — Solid State Tomb
 - [ ] Interventions — Tic
 - [ ] Interventions — Event Spaces
+- [ ] Interventions — Persoji
 
 —
 
@@ -74,6 +77,7 @@ Table of Contents
 
 - [ ] Public Services — Branding / Themes
 - [ ] Public Services — Event Planning
+- [ ] Public Services — Sunday School
 
 —
 
