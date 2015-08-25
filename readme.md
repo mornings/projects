@@ -4,6 +4,9 @@ Projects
 
 I've been getting caught up in my own projects spiderweb, this is a manual to help sort it out.
 
+> "...Maybe urgency too often boils down to chasing fashion. Then there’s digital culture, which is about staying abreast of new products and current updates, and also achieving the state of being able to tap into your shit at all conceivable times and in all possible places, in order to simultaneously render every facet of your selfhood as accessible and as secure as possible."
+> — Seth Price
+
 —
 
 Table of Contents
