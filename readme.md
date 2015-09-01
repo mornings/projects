@@ -4,6 +4,10 @@ Projects
 
 I've been getting caught up in my own projects spiderweb, this is a manual to help sort it out.
 
+> "...Maybe urgency too often boils down to chasing fashion. Then there’s digital culture, which is about staying abreast of new products and current updates, and also achieving the state of being able to tap into your shit at all conceivable times and in all possible places, in order to simultaneously render every facet of your selfhood as accessible and as secure as possible."
+
+> — Seth Price, [on urgency.](http://www.rolublog.com/2015/08/purpose-urgency/)
+
 —
 
 Table of Contents
@@ -19,8 +23,10 @@ Table of Contents
 ##### Index
 
 - [ ] IBM — MobileFirst Platform
+- [ ] IBM — Presence Insights
+- [ ] IBM — Community Radio Exchange
 - [X] IBM — RapidApps
-- [X] IBM — Design Education
+- [X] IBM — Design Education, Prototyping
 - [ ] Paper Prototyping Workshops
 - [ ] GIF Paper Prototyping Library
 - [X] IBM — Virtual Studio
@@ -39,6 +45,7 @@ Table of Contents
 - [ ] Interventions — Solid State Tomb
 - [ ] Interventions — Tic
 - [ ] Interventions — Event Spaces
+- [ ] Interventions — Persoji
 
 —
 
@@ -74,6 +81,7 @@ Table of Contents
 
 - [ ] Public Services — Branding / Themes
 - [ ] Public Services — Event Planning
+- [ ] Public Services — Sunday School
 
 —
 
